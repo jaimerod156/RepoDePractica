@@ -1,5 +1,5 @@
 
-package paquetedeprueba;
+package JavaIntroP01;
 
 import java.util.Scanner;
 
